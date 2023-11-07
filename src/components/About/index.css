@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+.home-route {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

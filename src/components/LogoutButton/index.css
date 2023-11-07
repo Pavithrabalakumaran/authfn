@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.logout-button {
+  display: flex;
+  height: 50px;
+  width: 100px;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-self: center;
+  font-family: 'Roboto';
+  margin: auto;
+}
